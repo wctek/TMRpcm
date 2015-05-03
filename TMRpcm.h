@@ -4,6 +4,7 @@ Contributors:
 
   ftp27 (GitHub) - setVolume(); function and code
   muessigb (GitHub) - metatata (ID3) support
+  wctek (GitHub) - adapted for Piccolino
 
 */
 
